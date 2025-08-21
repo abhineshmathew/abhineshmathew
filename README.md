@@ -20,7 +20,6 @@
 
 ## 🚀 What I'm Working On
 - 🌐 Building portfolio projects in **DevOps pipelines**  
-- 🐍 FastAPI projects → [meta-guard-api](https://github.com/abhineshmathew/meta-guard-api)  
 - 📦 Experimenting with **Rust CLI tools**  
 
 ---
